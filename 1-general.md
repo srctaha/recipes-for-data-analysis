@@ -2,8 +2,8 @@
 
 ## General
 
-### Write down your own recipes, share them with others, collect feedback, and reflect
-This exercise, which should in fact be done by almost all working members of the society, has the following benefits:
+### Write down your own recipes, share them, collect feedback, and reflect
+This exercise, which should in fact be carried out by almost all members of the society, has the following benefits:
 * establishes transparency in how you operate
 * prevents you from forgetting hard-learned lessons
 * provides others with an opportunity to learn from your practices
@@ -15,7 +15,7 @@ No: `Clarify the problem -> Analyze -> Document`
 
 Yes: `Clarify the problem -> Document -> Analyze`
 
-Why? Because:
+Why? Because writing:
 * Forces us to be clear
 * Crystallizes what we do not understand
 * Opens the way to dialogue with others
@@ -45,13 +45,13 @@ At the beginning of an engagement, you might know nothing about the business, no
 
 At worst, you build momentum in your work and get familiar with the contents, quirks, and limitations of the data that you have to deal with later. At best, you and your client learn something new in a very short period of time.
 
-### Sit on the table until the very end
+### Sit at the table until the very end
 Outputs of a data analyst are:
 1. A logically and numerically sound analysis
 2. A short list of *call-to-action* items, each of which is
     + easy-to-understand
     + realistic
-    + consistent with the client's existing strategy -- *at least to some degree*
+    + consistent with the client's existing strategy — *at least to some degree*
 3. A seat on the table where
     + proposed *call-to-action* items will be prioritized
     + execution plans will be created
