@@ -1,4 +1,5 @@
-# References
+## References
+
 1. Patrick Riley, 2016, "Practical advice for analysis of large, complex data sets"; [Blog-post](http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html)
 1. Ray Dalio, 2017, "Principles"
 1. Tom Preston-Werner, 2010, "Readme Driven Development"; [Blog-post](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)

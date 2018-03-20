@@ -6,10 +6,14 @@ Although there is a large body of work -- both academic and industrial -- addres
 
 The lack of documentation leads to large differences in how data-analysts operate, and large differences in the effectiveness of those operations, which constitute a major issue both for analysts doing the work and for businesses aiming to benefit from the works of analysts in a consistent way.
 
-This document lists a collection of recipes (*do's and don'ts*) for analysts to make them more effective in their data analysis engagements.
+This project (document) lists a collection of recipes (*do's and don'ts*) for analysts to make them more effective in their data analysis engagements.
 
 Listed recipes are grouped into the following four categories:
 1. [General](https://github.com/srctaha/recipes-for-data-analysis/blob/master/1-general.md)
 1. [Software](https://github.com/srctaha/recipes-for-data-analysis/blob/master/2-software.md)
 1. [Statistics](https://github.com/srctaha/recipes-for-data-analysis/blob/master/3-statistics.md)
 1. [Social](https://github.com/srctaha/recipes-for-data-analysis/blob/master/4-social.md)
+
+___
+
+[References](https://github.com/srctaha/recipes-for-data-analysis/blob/master/references.md) were highly influential for the presented core ideas.
