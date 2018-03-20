@@ -1,6 +1,5 @@
 # Recipes for _success_ in data analysis
 
-## Introduction
 According to most sources, data-analysis is a well-defined process in which specialists (data-analysts) *clean, transform, model and question data* for *helping businesses make intelligent decisions*.
 
 Although there is a large body of work -- both academic and industrial -- addressing *how to deal with data*, there is a lack of documentation addressing the complexity of the overall data-analysis process and providing concrete advice on how to execute effectively.
