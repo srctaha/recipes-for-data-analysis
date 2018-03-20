@@ -59,3 +59,8 @@ Outputs of a data analyst are:
     + results will be evaluated
 
 TODO: explain the purpose of (3)
+
+### Build a solid writing habit
+Data analysts often face with the challenge of demonstrating their sophistication as a communicator.
+
+TODO: Keep explaining

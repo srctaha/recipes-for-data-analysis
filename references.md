@@ -10,3 +10,4 @@
 1. David Ritter, 2014, "When to Act on a Correlation, and When Not To"; [HBR-article](https://hbr.org/2014/03/when-to-act-on-a-correlation-and-when-not-to)
 1. Cheng-Tao Chu, 2014, "Machine Learning Done Wrong", [Blog-post](http://ml.posthaven.com/machine-learning-done-wrong)
 1. Arthur Charpentier, 2015, "Variable Importance with Correlated Features", [Blog-post](https://freakonometrics.hypotheses.org/20545)
+1. Claudia Perlich, "All the Data and Still Not Enough!" at Strata + Hadoop World in New York, 2014, [Video](https://www.oreilly.com/learning/all-the-data-and-still-not-enough)
