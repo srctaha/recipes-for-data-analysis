@@ -1,5 +1,3 @@
-# Recipes for _success_ in data analysis
-
 ## Social
 
 ### Data analysis starts with questions
@@ -101,3 +99,5 @@ Try to figure out if your client is:
 * focused or indecisive
 * clear or vague
 * intuitive or analytic
+
+[Return to README](https://github.com/srctaha/recipes-for-data-analysis/blob/master/README.md)

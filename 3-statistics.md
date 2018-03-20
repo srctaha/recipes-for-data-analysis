@@ -1,5 +1,3 @@
-# Recipes for _success_ in data analysis
-
 ## Statistics
 
 ### Get rid of _statistics_, whenever you can
@@ -175,3 +173,5 @@ Therefore under *multi-collinearity* conditions, report feature importances with
 `Correlation ≠ Causation`, but also `!Proof-of-causation ⇏ !Action`
 
 Being unable to prove causation should not stop you making recommendations for action. Consider both **risks of being wrong** and **merits of being correct**, and call for action accordingly.
+
+[Return to README](https://github.com/srctaha/recipes-for-data-analysis/blob/master/README.md)

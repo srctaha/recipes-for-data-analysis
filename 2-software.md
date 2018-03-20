@@ -1,5 +1,3 @@
-# Recipes for _success_ in data analysis
-
 ## Software
 
 ### Have a *folder strategy*
@@ -20,3 +18,6 @@ Please remember that even though nobody else will see your scripts used during t
 * Explicitly state which variables are boolean with adding a proper prefix, such as `is_...` and `has_...` to your variable names .
 * Comment on how a constant got its value and stop this madness: `THRESHOLD=10 `~~`# Threshold is set to 10`~~.
 * Use information-dense words for comments, function and variable names.
+* Start naming your functions with verbs.
+
+[Return to README](https://github.com/srctaha/recipes-for-data-analysis/blob/master/README.md)

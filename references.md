@@ -1,5 +1,3 @@
-# Recipes for _success_ in data analysis
-
 # References
 1. Patrick Riley, 2016, "Practical advice for analysis of large, complex data sets"; [Blog-post](http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html)
 1. Ray Dalio, 2017, "Principles"
@@ -11,3 +9,5 @@
 1. Cheng-Tao Chu, 2014, "Machine Learning Done Wrong", [Blog-post](http://ml.posthaven.com/machine-learning-done-wrong)
 1. Arthur Charpentier, 2015, "Variable Importance with Correlated Features", [Blog-post](https://freakonometrics.hypotheses.org/20545)
 1. Claudia Perlich, "All the Data and Still Not Enough!" at Strata + Hadoop World in New York, 2014, [Video](https://www.oreilly.com/learning/all-the-data-and-still-not-enough)
+
+[Return to README](https://github.com/srctaha/recipes-for-data-analysis/blob/master/README.md)

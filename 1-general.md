@@ -1,5 +1,3 @@
-# Recipes for _success_ in data analysis
-
 ## General
 
 ### Write down your own recipes, share them, collect feedback, and reflect
@@ -64,3 +62,12 @@ TODO: explain the purpose of (3)
 Data analysts often face with the challenge of demonstrating their sophistication as a communicator.
 
 TODO: Keep explaining
+
+### Be thoughtful while using jargon and acronyms in your documents
+> AGC issues are highly associated with SR churn.
+
+Although such beginnings might be common in presentations and emails reporting analysis findings, and although _some_ clients might not have much difficulty in encoding such abbreviations, it would be wise to spell out terms on their first occurrence.
+
+Please consider _future yourself_ as one of the current clients as well, and prepare documents accordingly.
+
+[Return to README](https://github.com/srctaha/recipes-for-data-analysis/blob/master/README.md)
