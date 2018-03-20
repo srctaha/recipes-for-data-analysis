@@ -4,9 +4,9 @@
 
 ### Write down your own recipes, share them with others, collect feedback, and reflect
 This exercise, which should in fact be done by almost all working members of the society, has the following benefits:
-1. establishes transparency in how you operate
-1. prevents you from forgetting hard-learned lessons
-1. provides others with an opportunity to learn from your practices
+* establishes transparency in how you operate
+* prevents you from forgetting hard-learned lessons
+* provides others with an opportunity to learn from your practices
 
 ### Start documentation from the beginning
 Do not wait to document until you have something to show for others.
@@ -27,7 +27,7 @@ Solution? — README files.
 
 Why? — Because they are concise, easy to read, and _relatively_ easy to create. Besides, we need only _one_ of them for the whole project.
 
-What do we record on them? — As depicted on the following figure, analyses -- iterative or linear -- comprise a sequence of distinct exploration tasks (*Step B & K*), each of which also comprise a sequence of interrelated subtasks (*b1, b2, ...*).
+What do we record on them? — As depicted on the following figure, analyses -- iterative or linear -- comprise a sequence of distinct exploration tasks (*Step A, ..., K*), each of which also comprise a sequence of interrelated subtasks (*a1, a2, ...*).
 
 ![how-to-document](images/how-to-document-w500px.png)
 
@@ -49,13 +49,13 @@ At worst, you build momentum in your work and get familiar with the contents, qu
 Outputs of a data analyst are:
 1. A logically and numerically sound analysis
 2. A short list of *call-to-action* items, each of which is
-+ easy-to-understand
-+ realistic
-+ consistent with the client's existing strategy -- *at least to some degree*
+    + easy-to-understand
+    + realistic
+    + consistent with the client's existing strategy -- *at least to some degree*
 3. A seat on the table where
-+ proposed *call-to-action* items will be prioritized
-+ execution plans will be created
-+ execution status will be tracked
-+ results will be evaluated
+    + proposed *call-to-action* items will be prioritized
+    + execution plans will be created
+    + execution status will be tracked
+    + results will be evaluated
 
 TODO: explain the purpose of (3)
