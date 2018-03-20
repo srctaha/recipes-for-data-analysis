@@ -2,26 +2,32 @@
 
 ## Social
 
-### Data analysis starts with questions, neither with data nor with a technique
+### Data analysis starts with questions
 ![Dr. Seuss](images/dr-seuss.jpg)
 
-There is always a reason that you are doing some analysis. If you take the time to formulate your needs as questions or hypotheses, it will go a long way towards making sure that you are gathering the data you should be gathering and that you are thinking about the possible gaps in the data.
+And neither with data nor with a technique.
 
-Of course, questions you ask can and should evolve as you look at the data. But analysis without a question will end up aimless.
+There is always a reason that you are doing some analysis. If you take the time to formulate the needs, questions or hypotheses, it will go a long way towards making sure that you are gathering the data you should be gathering and that you are thinking about the possible gaps in the data.
 
-Further, you have to avoid the trap of finding some favorite technique and then only finding the parts of problems that this technique works on. Again, making sure you are clear what the questions are will help you avoid this.
+Of course, questions you ask can and should evolve as you look at the data. But analysis without a proper question will end up aimless.
 
-### Ask yourself: _What decision(s) would this analysis inform?_
-The set of possibilities are {product change, business flow change, personnel change, strategy change}.
+Furthermore, you have to avoid the trap of finding some favorite technique and then only finding the parts of problems that this technique works on. Again, making sure you are clear what the questions are will help you avoid this.
 
-However unpredictable the outcome may seem, have an idea about which subset of the given possibilities are more likely to happen and adjust your focus or _direction_ accordingly.
+### Ask yourself: _What decision(s) would this analysis lead to?_
+Effective data analyses would lead to decisions of the following type:
+* product change
+* business flow change
+* personnel change
+* strategy change
+
+However unpredictable the outcome of your analysis may seem, have an idea about which subset of the given possibilities are more likely to happen under the current business environment and adjust your focus or _direction_ accordingly.
 
 ### Ask yourself: _Would my finding(s) lead to a change in the decisions?_
-This is a necessary yes/no question that should be honestly addressed as soon as possible.
+This is a necessary yes/no question that should be addressed as soon as possible.
 
-You may wonder _why would anyone, for god's sake, ask to analyze something, which is guaranteed to lead nowhere_. It might be caused by insufficient knowledge on your client's end, or more rarely, due to office politics.
+You may wonder _why would anyone, for god's sake, ask to analyze something, which is guaranteed to lead nowhere_. It might be due to insufficient knowledge on your client's end, or more rarely, due to office politics.
 
-### Ask yourself: _How important is that decision relative to other decisions that my client has to make?_
+### Ask yourself: _How important is the decision my analysis suggesting relative to other decisions that my client has to make?_
 Have an idea about the decision backlog of your client.
 
 The motivation of your client during the first engagement does not unfortunately guarantee the support/interest/time you will get from him/her going forward. This exercise would help you adjust your energy.
@@ -34,10 +40,10 @@ Yes, a single sentence. This will become handy while conveying progress to manag
 
 You can hardly persuade people with only facts, let alone with only probability or statistics. If this would not be the case, there would not be an advertisement industry as we know today.
 
-So sharpen your creativity and speaking skills, and prepare a story that would explain the gist of your findings. Do not forget to update it based on the feedback that you will get from co-workers and clients throughout the engagement.
+So sharpen your creativity and speaking skills, and prepare a story that would explain the gist of your findings. Do not forget to update your story based on the feedback that you will get from co-workers and clients throughout the engagement.
 
-### Acknowledge and count your filtering
-> Almost every data analysis starts by filtering the data in various stages. Maybe you want to consider only US users, or web searches, or searches with a result click. Whatever the case, you must acknowledge and clearly specify what filtering you are doing.
+### Document and communicate what you are filtering
+Almost every data analysis starts by filtering the data in various stages ― region, time period, customer segment. Whatever the case, you must acknowledge the type of filtering you are conducting, document and communicate it properly.
 
 ### Count how much is being filtered at each of your steps
 > Often the best way to do the latter is to actually compute all your metrics even for the population you are excluding. Then you can look at that data to answer questions like "What fraction of queries did my filtering remove?"
