@@ -70,8 +70,6 @@ Although such beginnings might be common in presentations and emails reporting a
 
 Please consider _future yourself_ as one of the current clients as well, and prepare documents accordingly.
 
-[Return to README](https://github.com/srctaha/recipes-for-data-analysis/blob/master/README.md)
-
 ### Aim high while defining your role as an analyst
 Say you work for an insurance company, and the property insurance team wants you to take a look at existing policyholder information and publicly available flood risk data to investigate if there are things that they need to reconsider in their operations.
 
@@ -88,3 +86,5 @@ What value do you think you would generate under those 5 scenarios if we would r
 ![Generated business value](images/generated-business-value.png)
 
 As a data analyst, you probably have the luxury of defining your own responsibilities. Going from (1) to (5), your value proposition would increase exponentially. Forget about exponentially increasingly challenges on this choice, and aim high within your role.
+
+[Return to README](https://github.com/srctaha/recipes-for-data-analysis/blob/master/README.md)
