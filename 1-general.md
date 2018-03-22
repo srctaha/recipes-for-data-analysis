@@ -2,7 +2,7 @@
 
 ### Write down your own recipes, share them, collect feedback, and reflect
 This exercise, which should in fact be carried out by almost all members of the society, has the following benefits:
-* establishes transparency in how you operate
+* establishes transparency in how you work
 * prevents you from forgetting hard-learned lessons
 * provides others with an opportunity to learn from your practices
 
@@ -66,14 +66,14 @@ TODO: Keep explaining
 ### Be thoughtful while using jargon and acronyms in your documents
 > AGC issues are highly associated with SR churn.
 
-Although such beginnings might be common in presentations and emails reporting analysis findings, and although _some_ clients might not have much difficulty in encoding such abbreviations, it would be wise to spell out terms on their first occurrence.
+Although such beginnings might be common in presentations and emails reporting analysis findings, and although _some_ clients might not have much difficulty in decoding such abbreviations, it would be wise to spell out terms on their first occurrence.
 
 Please consider _future yourself_ as one of the current clients as well, and prepare documents accordingly.
 
 ### Aim high while defining your role as an analyst
 Say you work for an insurance company, and the property insurance team wants you to take a look at existing policyholder information and publicly available flood risk data to investigate if there are things that they need to reconsider in their operations.
 
-And say you define your job as creating either one of the following:
+And say you define your deliverable as creating either one of the following:
 
 1. An excel file where each row contains a single policy and associated flood-risk
 1. *In addition to 1*, a slide deck reporting details of the analysis and listing *call-to-action* items
@@ -81,10 +81,10 @@ And say you define your job as creating either one of the following:
 1. *In addition to 3*, proposal of business processes that will complete *call-to-action* items
 1. *In addition to 4*, proposal of a new product that is based on the findings of the numerical analyses
 
-What value do you think you would generate under those 5 scenarios if we would run this thought experiment on thousand different engagements? — Distribution of generated business values would probably look like this:
+What value do you think you would generate under those 5 scenarios if we would run this thought experiment on a thousand similar engagements? — Distribution of generated business values would probably look like this:
 
 ![Generated business value](images/generated-business-value.png)
 
-As a data analyst, you probably have the luxury of defining your own responsibilities. Going from (1) to (5), your value proposition would increase exponentially. Forget about exponentially increasingly challenges on this choice, and aim high within your role.
+Going from *raw data servicing* to *new product proposals*, your value proposition would increase exponentially. Challenges would definitely increase exponentially too, but do not let those challenges define your role.
 
 [Return to README](https://github.com/srctaha/recipes-for-data-analysis/blob/master/README.md)
