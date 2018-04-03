@@ -15,10 +15,10 @@ By looking at the raw data, you will not only gain a better understanding of the
 
 While looking at raw data, however, you should pay special attention to common cases. As common cases might induce bias to your understanding, you should do *stratified sampling* and look at samples across the distribution of values.
 
-### Look at your distributions
-> While we typically use summary statistics (`means`, `median`, `standard deviation`, etc.) to communicate about distributions, you should usually be looking at a much richer representation of the distribution.
->
-> Something like `histograms`, `CDFs`, `Q-Q plots`, etc. will allow you to see if there are interesting features of the data such as multi-modal behavior or a significant class of outliers that you need to decide how to summarize.
+### Look at variable distributions
+While business teams frequently monitor _means_, _medians_, and _standard deviations_ of the key variables, data analysts should look at the _distributions_ for a better understanding of the underlying phenomena.
+
+_Histograms_, _Q-Q plots_, _frequency distributions_, _contingency tables_ and _scatter plots_ would help to analyze variable distributions and to visualize multi-modality or groups of outliers, if there are any.
 
 ### Look at outliers
 ![Outliers are _gold_](images/outlier-w400px.png)
