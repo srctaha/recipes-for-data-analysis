@@ -2,20 +2,20 @@
 
 ### Write down your own recipes, share them, collect feedback, and reflect
 This exercise, which should in fact be carried out by almost all members of the society, has the following benefits:
-* establishes transparency in your work
-* prevents you from forgetting hard-learned lessons
-* provides others with an opportunity to learn from your practices
+* establishes transparency in your work (a necessary step to earn trust)
+* prevents you from forgetting hard-learned lessons (a necessary step to maintain long term efficiency)
+* provides others with an opportunity to learn from your practices (a necessary step to give back to community)
 
-### Not only write to explain, but also write to explore
+### Not only write to explain, but also write to _explore_
 Do not wait to document until you clarify your problem and have something to show for others.
 
 Use writing as a learning tool. Why? Because writing:
-* Forces us to be clear
-* Crystallizes what we do not understand
-* Opens the way to dialogue with others
+* forces us to be clear in our thinking
+* crystallizes what we do not understand
+* opens the way to dialogue with others
 
 ### Embrace README driven analysis
-If we start documentation right from the beginning and attempt to **record everything in an unstructured format**, we probably end up with a large number of documents, which would make it difficult to digest the content and would even cause the analysis to loose its way during the _recording_ process.
+If we start documentation right from the beginning and attempt to **record everything in an unstructured format**, we probably end up with a large set of documents, which would make it difficult to digest the content and would even cause the analysis to loose its way during the _recording_ process.
 
 Solution? — README files.
 
@@ -27,17 +27,17 @@ What do we record on them? — As depicted on the following figure, analyses -- 
 
 On your README file, record only those distinct exploration tasks without diving deeper into the subtasks and their results.
 
-This whole exercise will help you maintain your focus and enable you to articulate your decisions, findings and actions more easily.
+This whole exercise will help you keep the focus and enable you to articulate your decisions, findings, and actions more easily.
 
 ### Keep a journal of case studies
 Always document problems that you have worked on.
 
-Keep full accounts of the problems that business teams have faced, step-by-step recreations the engagements, evaluated solutions and a rough estimate of the created value.
+Keep full accounts of the problems that business teams have faced, step-by-step recreations of the engagements, evaluated solutions and a rough estimates of the created values.
 
 ### Start the body of work with a _silly_ hypothesis
 At the beginning of an engagement, you might know nothing about the business, nothing about the problem, nothing about the data. Doesn't matter! State a silly hypothesis to test and move forward with the validation.
 
-At worst, you build momentum in your work and get familiar with the contents, quirks, and limitations of the data that you have to deal with later. At best, you and your client learn something new in a very short period of time.
+At worst, you will build momentum in your work and get familiar with the contents, quirks, and limitations of the data that you have to deal with later. At best, you and your client will learn something new in a very short period of time.
 
 ### Sit at the table until the very end
 Define the deliverables of your work as follows:
