@@ -175,3 +175,23 @@ Therefore under *multi-collinearity* conditions, report feature importances with
 Being unable to prove causation should not stop you making recommendations for action. Consider both **risks of being wrong** and **merits of being correct**, and call for action accordingly.
 
 [Return to README](https://github.com/srctaha/recipes-for-data-analysis/blob/master/README.md)
+
+### Don't underestimate the variability in small samples
+The law of small numbers says that people underestimate the variability in small samples. As an analyst, you shouldn't.
+
+Let's say that in the past, 80% of the partner companies responded positively to a special deal. You repeat the same deal, but this time, less than 9 partners out of 12 responded positively (<75%). Is this something you need to worry about?
+
+If you run the following simulation in R, you will see that there is a 20% chance to observe such an outcome, which is not insignificant.
+
+```R
+library(magrittr)
+
+set.seed(123)
+num_repetitions <- 10000
+num_draws <- 12
+
+x <- sapply(1:num_repetitions, FUN=function(x) {
+    sample(x=c(0,1), size=num_draws, replace=TRUE, prob=c(0.2,0.8)) %>% sum
+})
+sum(x<9) / num_repetitions
+```
