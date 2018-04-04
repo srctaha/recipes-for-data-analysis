@@ -1,11 +1,11 @@
 ## Social
 
-### Data analysis starts with questions
+### Set _the question_ correctly
 ![Dr. Seuss](images/dr-seuss.jpg)
 
-And neither with data nor with a technique.
+Data analysis starts with questions -- neither with data nor with a technique.
 
-There is always a reason that you are doing some analysis. If you take the time to formulate the needs, questions or hypotheses, it will go a long way towards making sure that you are gathering the data you should be gathering and that you are thinking about the possible gaps in the data.
+There is always a reason that you are analyzing a dataset. If you take the time to formulate the needs, questions or hypotheses, it will go a long way towards making sure that you are gathering the data you should be gathering and that you are thinking about the possible gaps in the data.
 
 Of course, questions you ask can and should evolve as you look at the data. But analysis without a proper question will end up aimless.
 
