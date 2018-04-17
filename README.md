@@ -1,4 +1,6 @@
-# Recipes for data analysis: _An attempt to bring structure to an unstructured activity_
+# Recipes for data analysis
+
+_An attempt to bring structure to an unstructured activity._
 
 According to most sources, data-analysis is a _well-defined_ process in which specialists (data-analysts) *clean, transform, model and question data* for *helping businesses make intelligent decisions*.
 
@@ -9,10 +11,14 @@ The lack of documentation leads to large differences in how data-analysts operat
 This project lists a collection of recipes (*do's and don'ts*) for analysts to make them more effective in their data analysis engagements.
 
 Listed recipes are grouped into the following four categories:
-1. [General](https://github.com/srctaha/recipes-for-data-analysis/blob/master/1-general.md)
-1. [Software](https://github.com/srctaha/recipes-for-data-analysis/blob/master/2-software.md)
-1. [Statistics](https://github.com/srctaha/recipes-for-data-analysis/blob/master/3-statistics.md)
-1. [Social](https://github.com/srctaha/recipes-for-data-analysis/blob/master/4-social.md)
+1. [General](https://github.com/srctaha/recipes-for-data-analysis/blob/master/general.md)
+1. [Software](https://github.com/srctaha/recipes-for-data-analysis/blob/master/software.md)
+1. [Statistics](https://github.com/srctaha/recipes-for-data-analysis/blob/master/statistics.md)
+1. [Social](https://github.com/srctaha/recipes-for-data-analysis/blob/master/social.md)
+1. [Writing](https://github.com/srctaha/recipes-for-data-analysis/blob/master/writing.md)
+1. [Politics](https://github.com/srctaha/recipes-for-data-analysis/blob/master/politics.md)
+
+`TODO:` Link references to recipes.
 
 ---
 

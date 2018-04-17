@@ -10,5 +10,6 @@
 1. Cheng-Tao Chu, 2014, "Machine Learning Done Wrong", [Blog-post](http://ml.posthaven.com/machine-learning-done-wrong)
 1. Arthur Charpentier, 2015, "Variable Importance with Correlated Features", [Blog-post](https://freakonometrics.hypotheses.org/20545)
 1. Claudia Perlich, "All the Data and Still Not Enough!" at Strata + Hadoop World in New York, 2014, [Video](https://www.oreilly.com/learning/all-the-data-and-still-not-enough)
+1. "The most difficult thing in data science: Politics" [Blog-post](https://www.rdisorder.eu/2017/09/13/most-difficult-thing-data-science-politics/)
 
 [Return to README](https://github.com/srctaha/recipes-for-data-analysis/blob/master/README.md)

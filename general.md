@@ -54,16 +54,6 @@ Define the deliverables of your work as follows:
 
 TODO: explain the purpose of (3)
 
-### Build a solid writing habit
-Data analysts often face with the challenge of demonstrating their sophistication as a communicator, which requires them to develop advanced writing skills. To achieve effectiveness in writing, book 15~30 min everyday in your calendar and practice.
-
-### Be thoughtful while using jargon and acronyms in your documents
-> AGC issues are highly associated with SR churn.
-
-Although such beginnings might be common in presentations and emails reporting analysis findings, and although _some_ clients might not have much difficulty in decoding such abbreviations, it would be wise to spell out terms on their first occurrence.
-
-Please consider _future yourself_ as one of the current clients as well, and prepare documents accordingly.
-
 ### Aim high while defining your role as an analyst
 Say you work for an insurance company, and the property insurance team wants you to take a look at existing policyholder information and publicly available flood risk data to investigate if there are things that they need to reconsider in their operations.
 
@@ -80,5 +70,12 @@ What value do you think you would generate under those 5 scenarios if we would r
 ![Generated business value](images/generated-business-value.png)
 
 Going from *raw data servicing* to *new product proposals*, your value proposition would increase exponentially. Challenges would definitely increase exponentially too, but do not let those challenges define your role.
+
+### Extra
+>* Remember that time management is the key
+>* Establish a weekly day to screen and process requests
+>* Give presentations, but find a way to spread knowledge more deeply and continuously
+>* Draw your processes and find a way to attach value to every project
+>* Try to stay lean and simple as long as you can
 
 [Return to README](https://github.com/srctaha/recipes-for-data-analysis/blob/master/README.md)
