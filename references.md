@@ -1,7 +1,7 @@
 ## References
 
 1. Patrick Riley, 2016, "Practical advice for analysis of large, complex data sets"; [Blog-post](http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html)
-1. Ray Dalio, 2017, "Principles"; [Amazon-link](https://www.amazon.com/dp/1508243247)
+1. Ray Dalio, 2017, "Principles"; [Book](https://www.amazon.com/dp/1508243247)
 1. Tom Preston-Werner, 2010, "Readme Driven Development"; [Blog-post](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
 1. Wilson et al., 2017, "Good enough practices in scientific computing"
 1. Jake Vanderplas, "Statistics for Hackers" at PyCon 2016; [Slides](https://speakerdeck.com/jakevdp/statistics-for-hackers), [Video](https://www.youtube.com/watch?v=Iq9DzN6mvYA)
@@ -11,5 +11,6 @@
 1. Arthur Charpentier, 2015, "Variable Importance with Correlated Features", [Blog-post](https://freakonometrics.hypotheses.org/20545)
 1. Claudia Perlich, "All the Data and Still Not Enough!" at Strata + Hadoop World in New York, 2014, [Video](https://www.oreilly.com/learning/all-the-data-and-still-not-enough)
 1. "The most difficult thing in data science: Politics" [Blog-post](https://www.rdisorder.eu/2017/09/13/most-difficult-thing-data-science-politics/)
+1. William Zinsser, 2006, "On Writing Well: The Classic Guide to Writing Nonfiction", [Book](https://www.amazon.com/dp/0060891548)
 
 [Return to README](https://github.com/srctaha/recipes-for-data-analysis/blob/master/README.md)

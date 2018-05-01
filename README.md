@@ -10,7 +10,7 @@ The lack of documentation leads to large differences in how data-analysts operat
 
 This project lists a collection of recipes (*do's and don'ts*) for analysts to make them more effective in their data analysis engagements.
 
-Listed recipes are grouped into the following four categories:
+Listed recipes are grouped into the following categories, each of which is by itself a craft:
 1. [General](https://github.com/srctaha/recipes-for-data-analysis/blob/master/general.md)
 1. [Software](https://github.com/srctaha/recipes-for-data-analysis/blob/master/software.md)
 1. [Statistics](https://github.com/srctaha/recipes-for-data-analysis/blob/master/statistics.md)
