@@ -1,6 +1,6 @@
 # Recipes for data analysis
 
-_An attempt to bring structure to an unstructured activity._
+This documentation project is an attempt to bring structure to an unstructured activity.
 
 According to most sources, data-analysis is a _well-defined_ process in which specialists (data-analysts) *clean, transform, model and question data* for *helping businesses make intelligent decisions*.
 
